@@ -5,7 +5,8 @@
 - 💼 Estou em busca do meu primeiro emprego
 - 📚 Atualmente estou estudando React e Typescript
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edmundo-xicara&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/edmundo-xicara/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edmundo-xicara&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Principais Tecnologias
 
