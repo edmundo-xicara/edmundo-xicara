@@ -2,7 +2,7 @@
           
 ### Opa! Bem-vindo ao meu perfil 👋
 
-- 💼 Estou em busca do meu primeiro emprego
+- 💼 Trabalho como produtor no canal do YouTube TinocandoTV
 - 📚 Atualmente estou estudando React e Typescript
 
 <div>
